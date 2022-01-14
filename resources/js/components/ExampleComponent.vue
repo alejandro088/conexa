@@ -120,11 +120,6 @@ export default {
                 }, 3000*index));
                       
             });
-        },
-        drawItem(position) {
-            console.log(this.step);
-            this.step++;
-            this.grid[position[0]][position[1]] = this.step;
         }
     }
 };
