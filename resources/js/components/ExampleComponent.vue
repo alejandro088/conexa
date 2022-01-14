@@ -3,7 +3,7 @@
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <div class="card">
-                    <div class="card-header">Earth</div>
+                    <div class="card-header">Practico Conexa</div>
                     <div id="movements">Movements: {{ movements }}</div>
                     <div id="positions">Final position: {{ positions }}</div>
 
